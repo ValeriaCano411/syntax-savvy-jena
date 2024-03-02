@@ -1,0 +1,26 @@
+{
+  "name": "syntax-savvy-jena",
+  "description": "syntax-savvy-jena",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/ValeriaCano411",
+  "repository": {
+    "url": "https://github.com/ValeriaCano411/syntax-savvy-jena"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "syntax",
+    "savvy",
+    "project"
+  ],
+  "author": "ValeriaCano411",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
